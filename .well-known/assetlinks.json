@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cans",
+    "sha256_cert_fingerprints":
+    ["F0:DA:EE:C8:95:4B:C7:82:58:02:06:F0:82:E1:B2:E1:53:FF:17:24:8C:9D:7D:7F:87:63:71:B8:B6:63:CB:79"]
+  }
+}]
